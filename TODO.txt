@@ -1,0 +1,8 @@
+/*=================================
+====         TO DO LIST        ====
+===================================*/
+
+- LOOK AT CLEANING UP AND REFACTORING ANY WASTE CODE
+- REMOVE DUMPS AND ECHOS, ADD DEBUG FUNCTIONALITY TO A LOG FILE?
+- ADD SESSION FUNCTIONALITY FOR FINAL FORM STAGE
+- 
